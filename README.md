@@ -22,7 +22,7 @@ Online courses platform that implemented with  **MERN Stack**
         JWT_SECRET=
         MONGODB_URL=
    - Start backend server by running `npm run dev`.
-  **For Frontend** :
+ - **For Frontend** :
    - Navigate to Frontend directory & run `npm install`
    - Start backend server by running `yarn start`.
  
